@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Aldi Dharmawan - aka [Suekko](https://www.instagram.com/dharmawan.aldi/) 👋
 ## About me:
 - 🔭 I'm currently an Informatics Engineering student
 - 🌱 I’m currently learning Web Progamming and Graphic Design
