@@ -1,4 +1,4 @@
-![image](https://github.com/Suekko28/Suekko28/assets/108856819/a20d060f-ec5a-4f19-acc2-4e136555b314)# Hi there, I'm Aldi Dharmawan - aka [Suekko](https://www.instagram.com/dharmawan.aldi/) 👋
+# Hi there, I'm Aldi Dharmawan - aka [Suekko](https://www.instagram.com/dharmawan.aldi/) 👋
 ## About me:
 - 🔭 I'm currently an Informatics Engineering student
 - 🌱 I’m currently learning Web Progamming and Graphic Design
@@ -32,7 +32,10 @@
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-
+[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe_Corporate_Logo.png/1200px-Adobe_Corporate_Logo.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
