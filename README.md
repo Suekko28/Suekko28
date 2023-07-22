@@ -20,12 +20,16 @@
    - Enter the necessary data to manufacture the car 
    - Making designs for step by step in car manufacturing
    - Calculate how many components are needed in producing a car
-#### 2. [Leader Organization]() | Head of the Computer and Network Engineering organization | Bogor `2019-2019`
+#### 2. [Leader Organization]() | Head of the Computer and Network Engineering organization | Bogor `2019 - 2020`
    - Be in charge of the Computer and Network engineering department 
    - Can give lessons to friends and younger siblings
    - Being in charge when holding a workshop at school
 #### 3. [LKS 2019 IT Network Administration]() | IT Network Administration | Bogor `Sep 2019-Jun 2019`
    - Becoming one of the representatives at the nal level in participating in the 2019 LKS competition
+#### 4. [Studi Independe]() | Pengembang Front-End Web Dan Back-End | `Feb 2023 - Jun 2023`
+   - Be in charge of the Computer and Network engineering department 
+   - Can give lessons to friends and younger siblings
+   - Being in charge when holding a workshop at school
 ---
 
 ### Languages and Tools:
@@ -36,6 +40,7 @@
 [<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
