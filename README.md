@@ -26,7 +26,7 @@
    - Being in charge when holding a workshop at school
 #### 3. [LKS 2019 IT Network Administration]() | IT Network Administration | Bogor `Sep 2019-Jun 2019`
    - Becoming one of the representatives at the nal level in participating in the 2019 LKS competition
-#### 4. [Studi Independe]() | Pengembang Front-End Web Dan Back-End | `Feb 2023 - Jun 2023`
+#### 4. [Studi Independen]() | Pengembang Front-End Web Dan Back-End | `Feb 2023 - Jun 2023`
    - Be in charge of the Computer and Network engineering department 
    - Can give lessons to friends and younger siblings
    - Being in charge when holding a workshop at school
