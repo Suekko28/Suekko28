@@ -31,7 +31,7 @@
    - Can give lessons to friends and younger siblings
    - Being in charge when holding a workshop at school
 
-   - #### 5. [Internship UI/UX Designer]() | Internship at Soedarpo Informatika | `Nov 2023 - Apr 2024`
+#### 5. [Internship UI/UX Designer]() | Internship at Soedarpo Informatika | `Nov 2023 - Apr 2024`
    - Create application designs that clients need
    - Create visual banners for the application 
    - Create a logo for the application
