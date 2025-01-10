@@ -10,7 +10,7 @@
 
 ## Education:
 
-#### 1. [Universitas Gunadarma](https://gunadarma.ac.id/) | Informatics Engineering Student | Gunadarma `Sep 2020 - Until Now`
+#### 1. [Universitas Gunadarma](https://gunadarma.ac.id/) | Informatics Engineering Student | Gunadarma `Sep 2020 - Oct 2024`
    
  #### 2. [SMK 2 Triple "J"](http://smk2tj.mysch.id/) | Computer and Network Engineering | Bogor `Apr 2017- Apr 2020`
   
