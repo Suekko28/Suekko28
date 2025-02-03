@@ -44,8 +44,7 @@
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="[https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png](https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies.png)" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
