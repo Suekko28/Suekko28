@@ -39,13 +39,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="60px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="60px" src="https://www.coreldraw.com/static/cdgs/images/coreldraw-wordmark-color.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3nGuq7SSWHYYOxZizr5U9MIv09H0exurKg&s" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://www.coreldraw.com/static/cdgs/images/coreldraw-wordmark-color.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3nGuq7SSWHYYOxZizr5U9MIv09H0exurKg&s" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
