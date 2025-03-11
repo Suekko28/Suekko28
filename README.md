@@ -1,64 +1,52 @@
 # Hi there, I'm Aldi Dharmawan - aka [Suekko](https://www.instagram.com/dharmawan.aldi/) 👋
-## About me:
-- 🔭 I'm currently an Informatics Engineering student
-- 🌱 I’m currently learning Web Progamming and Graphic Design
-- 👯 I'm looking to collaborate as Database Management
-- 😄 I'm looking for part time job
-- 🏮 I have a Dimsum D'Renmen food business
-- 💬 Ask me about anything
+
+## About Me:
+- 🔭 I'm an experienced Web Developer specializing in Laravel, MySQL, and React.js.
+- 🌱 Currently focusing on building responsive web applications and optimizing databases.
+- 👯 Looking for opportunities to collaborate on database management and web development projects.
+- 💼 Open to part-time job opportunities.
 - 📫 How to reach me: aldidharmawan700@gmail.com
 
 ## Education:
-
-#### 1. [Universitas Gunadarma](https://gunadarma.ac.id/) | Informatics Engineering Student | Gunadarma `Sep 2020 - Oct 2024`
-   
- #### 2. [SMK 2 Triple "J"](http://smk2tj.mysch.id/) | Computer and Network Engineering | Bogor `Apr 2017- Apr 2020`
-  
+#### 1. [Gunadarma University](https://gunadarma.ac.id/) | Informatics Engineering Student | `Sept 2020 - Oct 2024`
+#### 2. [SMK 2 Triple "J"](http://smk2tj.mysch.id/) | Computer and Network Engineering | `Apr 2017 - Apr 2020`
 
 ## Experience:
-#### 1. [PT Kreasi Mandiri Wintor Indonesia](https://www.kmwi-astra.com/) | Microsoft Office | Bogor `Feb 2019 - May 2019`
-   - Enter the necessary data to manufacture the car 
-   - Making designs for step by step in car manufacturing
-   - Calculate how many components are needed in producing a car
-#### 2. [Leader Organization]() | Head of the Computer and Network Engineering organization | Bogor `2019 - 2020`
-   - Be in charge of the Computer and Network engineering department 
-   - Can give lessons to friends and younger siblings
-   - Being in charge when holding a workshop at school
-#### 3. [LKS 2019 IT Network Administration]() | IT Network Administration | Bogor `Sep 2019-Jun 2019`
-   - Becoming one of the representatives at the nal level in participating in the 2019 LKS competition
-#### 4. [Studi Independen]() | Pengembang Front-End Web Dan Back-End | `Feb 2023 - Jun 2023`
-   - Be in charge of the Computer and Network engineering department 
-   - Can give lessons to friends and younger siblings
-   - Being in charge when holding a workshop at school
+#### 1. [Dicoding Indonesia]() | Study Independent | `Feb 2023 - Jun 2023`
+   - Gained hands-on experience in front-end and back-end web development.
+   - Improved skills in building responsive web applications.
 
-#### 5. [Internship UI/UX Designer]() | Internship at Soedarpo Informatika | `Nov 2023 - Apr 2024`
-   - Create application designs that clients need
-   - Create visual banners for the application 
-   - Create a logo for the application
----
+#### 2. [Internship UI/UX Designer]() | Soedarpo Informatika | `Nov 2023 - Apr 2024`
+   - Designed application interfaces as per client requirements.
+   - Created visual banners and logos for applications.
 
-### Languages and Tools:
+## Projects:
+#### 1. **Website JejakKebahagiaan** (`Sep 2024 – Oct 2024`)
+   - Digital platform for wedding services including invitations, photo printing, and creative design.
+   - Built using Laravel 11, Bootstrap, JavaScript, jQuery, and MySQL.
 
-[<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://www.coreldraw.com/static/cdgs/images/coreldraw-wordmark-color.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3nGuq7SSWHYYOxZizr5U9MIv09H0exurKg&s" style="padding-right:10px;" />][webdev]
+#### 2. **Recycle Website MHL Using WordPress** (`Aug 2024 – Oct 2024`)
+   - Redesigned and optimized the website for better UX/UI.
+   - Implemented bilingual support and SEO optimization.
 
-<br />
-<br />
+#### 3. **Tarikolot Village Administration System** (`Jun 2024 – Aug 2024`)
+   - Web-based system for resident data collection linked to the main database.
+   - Built using Laravel 10, Bootstrap, JavaScript, jQuery, MySQL, Yajra DataTables, and DOMPDF.
 
----
-### Connect with me:
+#### 4. **Website E-Learning SMK 2 Triple "J"** (`Nov 2023 – Jan 2024`)
+   - Online learning platform with interactive courses and quizzes.
+   - Built using Laravel 10, Bootstrap, JavaScript, jQuery, and MySQL.
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aldi-dharmawan-4b76a9221/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aldi-dharmawan-4b76a9221/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dharmawan.aldi/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dharmawan.aldi/#gh-dark-mode-only)
+#### 5. **Website Warehouse Murgana** (`Aug 2023 – Nov 2023`)
+   - Stock and equipment management system for business partners.
+   - Built using Laravel 10, Bootstrap, JavaScript, jQuery, and MySQL.
 
+## Skills:
+- **Web Development**: Laravel, React.js, JavaScript, PHP, MySQL, HTML/CSS.
+- **Tools & Platforms**: GitHub, Hosting, Tailwind, Bootstrap.
+- **Soft Skills**: Critical Thinking, Problem Solving, Creativity, Time Management.
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aldi-dharmawan-4b76a9221/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://www.instagram.com/dharmawan.aldi/)
 
-[webdev]: https://github.com/Suekko28
