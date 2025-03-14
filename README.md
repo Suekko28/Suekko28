@@ -44,6 +44,7 @@
 ## Skills:
 - **Web Development**: Laravel, React.js, JavaScript, PHP, MySQL, HTML/CSS.
 - **Tools & Platforms**: GitHub, Hosting, Tailwind, Bootstrap.
+-  **Design**: Adobe Illustrator, Figma, Photoshop, Canva.
 - **Soft Skills**: Critical Thinking, Problem Solving, Creativity, Time Management.
 
 ## Connect with me:
