@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 I'm an experienced Web Developer specializing in Laravel, MySQL, and React.js.<br>- 🌱 Currently focusing on building responsive web applications and optimizing databases.<br>- 👯 Looking for opportunities to collaborate on database management and web development projects.<br>- 💼 Open to part-time job opportunities.<br>- 📫 How to reach me: aldidharmawan700@gmail.com
+- 🔭 I'm an experienced Web Developer specializing in Laravel, MySQL, and React.js.<br>
+- 🌱 Currently focusing on building responsive web applications and optimizing databases.<br>
+- 👯 Looking for opportunities to collaborate on database management and web development projects.<br>
+- 💼 Open to part-time job opportunities.<br>
+- 📫 How to reach me: aldidharmawan700@gmail.com
 
 
 ## 🌐 Socials:
