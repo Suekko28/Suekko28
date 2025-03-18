@@ -1,53 +1,22 @@
-# Hi there, I'm Aldi Dharmawan - aka [Suekko](https://www.instagram.com/dharmawan.aldi/) 👋
+# 💫 About Me:
+- 🔭 I'm an experienced Web Developer specializing in Laravel, MySQL, and React.js.<br>- 🌱 Currently focusing on building responsive web applications and optimizing databases.<br>- 👯 Looking for opportunities to collaborate on database management and web development projects.<br>- 💼 Open to part-time job opportunities.<br>- 📫 How to reach me: aldidharmawan700@gmail.com
 
-## About Me:
-- 🔭 I'm an experienced Web Developer specializing in Laravel, MySQL, and React.js.
-- 🌱 Currently focusing on building responsive web applications and optimizing databases.
-- 👯 Looking for opportunities to collaborate on database management and web development projects.
-- 💼 Open to part-time job opportunities.
-- 📫 How to reach me: aldidharmawan700@gmail.com
 
-## Education:
-#### 1. [Gunadarma University](https://gunadarma.ac.id/) | Informatics Engineering Student | `Sept 2020 - Oct 2024`
-#### 2. [SMK 2 Triple "J"](http://smk2tj.mysch.id/) | Computer and Network Engineering | `Apr 2017 - Apr 2020`
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aldi.darmawan.946) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dharmawan.aldi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aldi-dharmawan-4b76a9221/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@suekkooo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aldidharmawan700@gmail.com) 
 
-## Experience:
-#### 1. [Dicoding Indonesia]() | Study Independent | `Feb 2023 - Jun 2023`
-   - Gained hands-on experience in front-end and back-end web development.
-   - Improved skills in building responsive web applications.
+# 💻 Tech Stack:
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Suekko28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Suekko28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suekko28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### 2. [Internship UI/UX Designer]() | Soedarpo Informatika | `Nov 2023 - Apr 2024`
-   - Designed application interfaces as per client requirements.
-   - Created visual banners and logos for applications.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Projects:
-#### 1. **Website JejakKebahagiaan** (`Sep 2024 – Oct 2024`)
-   - Digital platform for wedding services including invitations, photo printing, and creative design.
-   - Built using Laravel 11, Bootstrap, JavaScript, jQuery, and MySQL.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Suekko28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-#### 2. **Recycle Website MHL Using WordPress** (`Aug 2024 – Oct 2024`)
-   - Redesigned and optimized the website for better UX/UI.
-   - Implemented bilingual support and SEO optimization.
-
-#### 3. **Tarikolot Village Administration System** (`Jun 2024 – Aug 2024`)
-   - Web-based system for resident data collection linked to the main database.
-   - Built using Laravel 10, Bootstrap, JavaScript, jQuery, MySQL, Yajra DataTables, and DOMPDF.
-
-#### 4. **Website E-Learning SMK 2 Triple "J"** (`Nov 2023 – Jan 2024`)
-   - Online learning platform with interactive courses and quizzes.
-   - Built using Laravel 10, Bootstrap, JavaScript, jQuery, and MySQL.
-
-#### 5. **Website Warehouse Murgana** (`Aug 2023 – Nov 2023`)
-   - Stock and equipment management system for business partners.
-   - Built using Laravel 10, Bootstrap, JavaScript, jQuery, and MySQL.
-
-## Skills:
-- **Web Development**: Laravel, React.js, JavaScript, PHP, MySQL, HTML/CSS.
-- **Tools & Platforms**: GitHub, Hosting, Tailwind, Bootstrap.
--  **Design**: Adobe Illustrator, Figma, Photoshop, Canva.
-- **Soft Skills**: Critical Thinking, Problem Solving, Creativity, Time Management.
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aldi-dharmawan-4b76a9221/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://www.instagram.com/dharmawan.aldi/)
-
+---
+[![](https://visitcount.itsvg.in/api?id=Suekko28&icon=0&color=0)](https://visitcount.itsvg.in)
